@@ -1,0 +1,2 @@
+# WorkerFactory
+WPF Worker Factory
